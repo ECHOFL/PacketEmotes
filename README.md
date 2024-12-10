@@ -1,2 +1,2 @@
 # PacketEmotes
-Complexe gestures (emote)
+Packet based emotes (gestures) plugin
